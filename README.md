@@ -1,6 +1,6 @@
 # Croqueta
 
-<img src="./assets/overall.gif" width="600" alt="Overall showcase.">
+<img src="./assets/overall.gif" width="300" alt="Overall showcase.">
 
 
 AI-powered reverse engineering assistant for Ghidra. Uses Claude, Groq, OpenAI, Gemini, or Ollama to provide intelligent suggestions for function/variable renaming, type inference, code explanations, comments, and original code style rewriting.
