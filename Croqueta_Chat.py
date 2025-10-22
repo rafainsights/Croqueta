@@ -1,6 +1,6 @@
 # Croqueta Chat with safe threading for API calls
 # Python extension for Ghidra
-# @author Golconda (modified)
+# @author Golconda
 # @category AI Analysis
 # @keybinding Shift C
 # @menupath
