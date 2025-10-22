@@ -1,8 +1,8 @@
 # Croqueta
 
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:20px; flex-wrap:nowrap;">
-  <img src="./assets/overall.gif" alt="Overall showcase." style="width:35%;">
-  <img src="./assets/show_original.gif" alt="Show original showcase." style="width:60%;">
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:nowrap; align-items:flex-start;">
+  <img src="./assets/overall.gif" alt="Overall showcase." style="flex-shrink:0; width:250px;">
+  <img src="./assets/show_original.gif" alt="Show original showcase." style="flex-shrink:0; width:400px;">
 </div>
 
 
