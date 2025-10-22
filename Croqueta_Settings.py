@@ -1,5 +1,5 @@
 # Python extension for configuring Croqueta AI provider settings.
-# @author Golconda (modified)
+# @author Golconda
 # @category AI Analysis
 # @keybinding Shift S
 # @menupath
