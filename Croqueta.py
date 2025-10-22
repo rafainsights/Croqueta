@@ -1,3 +1,11 @@
+# Python extension that leverages Anthropic's Claude to assist in reverse engineering and binary analysis.
+# @author Golconda
+# @category AI Analysis
+# @keybinding Shift R
+# @menupath
+# @toolbar
+
+
 from ghidra.framework.preferences import Preferences
 from croqueta.config import CLAUDE_MODELS, GROQ_MODELS, OPENAI_MODELS, GEMINI_MODELS, OLLAMA_MODELS, SKIP_PROMPT_CONFIRMATION
 from croqueta.api import get_response_from_claude, get_response_from_groq, get_response_from_openai, get_response_from_gemini, get_response_from_ollama
