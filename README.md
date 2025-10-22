@@ -2,7 +2,7 @@
 
 <div style="display:flex; justify-content:center; gap:20px;">
   <img src="./assets/overall.gif" width="350" alt="Overall showcase.">
-  <img src="./assets/show_original.gif" width="700" alt="Show original showcase.">
+  <img src="./assets/show_original.gif" width="600" alt="Show original showcase.">
 </div>
 
 
