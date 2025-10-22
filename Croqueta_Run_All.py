@@ -1,5 +1,5 @@
 # Python extension for running all Croqueta functionalities with default settings.
-# @author Golconda (modified)
+# @author Golconda
 # @category AI Analysis
 # @keybinding Shift A
 # @menupath
