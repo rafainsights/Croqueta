@@ -3,10 +3,10 @@
 <p align="center">
   <table>
     <tr>
-      <img src="./assets/overall.gif" width="450" alt="Overall showcase.">
+      <img src="./assets/overall.gif" width="350" alt="Overall showcase.">
     </tr>
     <tr>
-      <img src="./assets/show_original.gif" width="600" alt="show original showcase.">
+      <img src="./assets/show_original.gif" width="500" alt="show original showcase.">
     </tr>
   </table>
 </p>
