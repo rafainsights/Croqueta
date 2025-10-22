@@ -1,5 +1,5 @@
 # Python extension for customizing AI prompts used by Croqueta.
-# @author Golconda (modified)
+# @author Golconda
 # @category AI Analysis
 # @keybinding Shift P
 # @menupath
