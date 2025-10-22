@@ -29,17 +29,13 @@ AI-powered reverse engineering assistant for Ghidra. Uses Claude, Groq, OpenAI, 
 
 ## Installation
 
-1. Copy these files to your Ghidra scripts directory (`~/ghidra_scripts/`):
-   - `Croqueta.py`
-   - `Croqueta_Run_All.py`
-   - `Croqueta_Settings.py`
-   - `Croqueta_Batch.py`
-   - `Croqueta_Chat.py`
-   - `Croqueta_Custom_Prompt.py`
-   - `Croqueta_Show_Original.py`
-   - `croqueta/` directory (all modules)
+1. **Get Croqueta**: Clone this repository or download it from the releases page.  
+2. **Add to Ghidra**:  
+   - Open Ghidra and go to **Window → Script Manager**.  
+   - Click **Manage Script Directories**.  
+   - Add the main `Croqueta` folder.  
+   - The scripts will now appear in the Script Manager—enable them by checking **In Tool**.
 
-2. Run scripts from Ghidra's Script Manager.
 
 ## Usage
 
