@@ -1,3 +1,10 @@
+# Show original code style of decompiled functions using AI (Claude, Groq, OpenAI, Gemini, Ollama)
+# @author Golconda
+# @category AI Analysis
+# @keybinding Shift O
+# @menupath Croqueta
+# @toolbar
+
 
 from __future__ import print_function
 from ghidra.app.script import GhidraScript
