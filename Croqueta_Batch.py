@@ -1,5 +1,5 @@
 # Python extension for batch analysis of multiple functions using AI.
-# @author Golconda (modified)
+# @author Golconda
 # @category AI Analysis
 # @keybinding Shift B
 # @menupath
